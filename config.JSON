@@ -1,0 +1,110 @@
+{
+  "titulo_principal": "CÉDULA DE TAMIZAJE PARA ESTUDIANTES UNIVERSITARIOS EN CONDICIÓN DE NEURODIVERSIDAD UASLP",
+  "secciones": [
+    {
+      "titulo": "1. Datos Generales",
+      "preguntas": [
+        { "id": "¿Cuál es tu nombre completo?", "texto": "¿Cuál es tu nombre completo?" },
+        { "id": "¿Cuál es tu Clave Única?", "texto": "¿Cuál es tu Clave Única?" },
+        { "id": "¿Cuál es tu edad?", "texto": "¿Cuál es tu edad?" },
+        { "id": "¿Cuál es tu fecha de nacimiento?", "texto": "¿Cuál es tu fecha de nacimiento?" },
+        { "id": "¿Cuál es tu género?", "texto": "¿Cuál es tu género?" },
+        { "id": "¿Te consideras parte de un grupo indígena?", "texto": "¿Te consideras parte de un grupo indígena?" },
+        { "id": "Indica el grupo étnico al que perteneces  ", "texto": "Grupo étnico al que perteneces:" },
+        { "id": "¿Tienes alguna diversidad funcional o condición que genere discapacidad?", "texto": "¿Tienes alguna diversidad funcional o condición que genere discapacidad?" },
+        { "id": "¿Tienes un diagnóstico médico/psicológico de tu condición actual?", "texto": "¿Tienes un diagnóstico médico/psicológico de tu condición actual?" },
+        { "id": "¿Has recibido tratamientos o intervenciones médico/farmacológicas?", "texto": "¿Has recibido tratamientos médico/farmacológicos?" },
+        { "id": "¿Has recibido tratamientos o intervenciones psicológicas/terapéuticas?  ", "texto": "¿Has recibido tratamientos psicológicos/terapéuticos?" }
+      ]
+    },
+    {
+      "titulo": "2. Antecedentes Médicos",
+      "preguntas": [
+        { "id": "¿Padeces hipertensión arterial?", "texto": "¿Padeces hipertensión arterial?" },
+        { "id": "¿Padeces enfermedades pulmonares?", "texto": "¿Padeces enfermedades pulmonares?" },
+        { "id": "¿Padeces de alcoholismo?", "texto": "¿Padeces de alcoholismo?" },
+        { "id": "¿Padeces de farmacodependencia?", "texto": "¿Padeces de farmacodependencia?" },
+        { "id": "¿Has padecido de traumatismos craneoencefálicos?", "texto": "¿Has padecido de traumatismos craneoencefálicos?" },
+        { "id": "¿Padeces de diabetes?", "texto": "¿Padeces de diabetes?" },
+        { "id": "¿Padeces alguna enfermedad de la tiroides?", "texto": "¿Padeces alguna enfermedad de la tiroides?" },
+        { "id": "¿Has padecido de accidentes cerebrovasculares?", "texto": "¿Has padecido de accidentes cerebrovasculares?" }
+      ]
+    },
+    {
+      "titulo": "3. Antecedentes Heredofamiliares",
+      "preguntas": [
+        { "id": "Epilepsia", "texto": "Epilepsia:" },
+        { "id": "Parálisis cerebral", "texto": "Parálisis cerebral:" },
+        { "id": "Demencia", "texto": "Demencia:" },
+        { "id": "Síndrome de Down", "texto": "Síndrome de Down:" },
+        { "id": "Discapacidad intelectual", "texto": "Discapacidad intelectual:" },
+        { "id": "Problemas de aprendizaje (lectura, escritura o cálculo)", "texto": "Problemas de aprendizaje (lectura, escritura o cálculo):" },
+        { "id": "Problemas de lenguaje", "texto": "Problemas de lenguaje:" },
+        { "id": "Condición de déficit de atención/hiperactividad", "texto": "Condición de déficit de atención/hiperactividad:" },
+        { "id": "Ansiedad", "texto": "Ansiedad:" },
+        { "id": "Condición del espectro autista ", "texto": "Condición del espectro autista:" },
+        { "id": "Depresión ", "texto": "Depresión:" }
+      ]
+    },
+    {
+      "titulo": "4. Historial de Desarrollo",
+      "preguntas": [
+        { "id": "Para caminar/correr/trepar ", "texto": "Retraso para caminar/correr/trepar:" },
+        { "id": "Para agarrar con la mano objetos pequeños o tomar el lápiz ", "texto": "Retraso para agarrar objetos pequeños o tomar el lápiz:" },
+        { "id": "Dificultades escolares: Aprendizaje de la lectoescritura y matemáticas    ", "texto": "Dificultades escolares (lectoescritura y matemáticas):" },
+        { "id": "Dificultades interpersonales (socializar, jugar con otros niños/niñas, compartir, ofrecer ayuda)    ", "texto": "Dificultades interpersonales (socializar, jugar, etc.):" }
+      ]
+    },
+    {
+      "titulo": "5. Tamizaje de Trastornos del Espectro Autista",
+      "preguntas": [
+        { "id": "Muchas veces noto pequeños sonidos en los que otros no reparan.", "texto": "1. Noto pequeños sonidos que otros no reparan." },
+        { "id": "Por lo general me concentro más en la imagen completa, en lugar de en los pequeños detalles.", "texto": "2. Me concentro más en la imagen completa que en los detalles." },
+        { "id": "Me resulta fácil hacer más de una cosa a la vez.", "texto": "3. Me resulta fácil hacer más de una cosa a la vez." },
+        { "id": "Si hay una interrupción, puedo volver a concentrarme en lo que estaba haciendo muy rápido.", "texto": "4. Si hay una interrupción, puedo volver a concentrarme rápido." },
+        { "id": "Me resulta fácil leer entre líneas cuando alguien me está hablando.", "texto": "5. Me resulta fácil leer entre líneas." },
+        { "id": "Sé cómo saber si alguien que me escucha se está aburriendo.", "texto": "6. Sé si alguien que me escucha se está aburriendo." },
+        { "id": "Cuando estoy leyendo una historia, me resulta difícil descifrar las intenciones de los personajes.", "texto": "7. Me resulta difícil descifrar las intenciones de los personajes de una historia." },
+        { "id": "Me gusta recabar información sobre categorías de cosas (por ejemplo, tipos de automóviles, tipos de aves, tipos de trenes, tipos de plantas, etc.).", "texto": "8. Me gusta recabar información sobre categorías de cosas." },
+        { "id": "Me resulta fácil saber lo que alguien está pensando o sintiendo simplemente mirando su rostro.", "texto": "9. Me resulta fácil saber lo que alguien piensa o siente por su rostro." },
+        { "id": "Me resulta difícil comprender las intenciones de las personas.", "texto": "10. Me resulta difícil comprender las intenciones de las personas." }
+      ]
+    },
+    {
+      "titulo": "6. Cuestionario de Cribado del Adulto (ASRS-V1.1)",
+      "preguntas": [
+        { "id": "¿Con qué frecuencia tiene usted dificultad para acabar los detalles finales de un proyecto, una vez que ha terminado con las partes difíciles?", "texto": "1. Dificultad para acabar los detalles finales de un proyecto:" },
+        { "id": "¿Con qué frecuencia tiene usted dificultad para ordenar las cosas cuando está realizando una tarea que requiere organización?", "texto": "2. Dificultad para ordenar las cosas en una tarea que requiere organización:" },
+        { "id": "¿Con qué frecuencia tiene usted problemas para recordar citas u obligaciones?", "texto": "3. Problemas para recordar citas u obligaciones:" },
+        { "id": "Cuando tiene que realizar una tarea que requiere pensar mucho, ¿con qué frecuencia evita o retrasa empezarla?", "texto": "4. Evita o retrasa empezar tareas que requieren pensar mucho:" },
+        { "id": " ¿Con qué frecuencia se mueve continuamente o retuerce las manos o los pies cuando tiene que permanecer sentado por mucho tiempo?", "texto": "5. Se mueve o retuerce manos/pies al estar sentado mucho tiempo:" },
+        { "id": "¿Con qué frecuencia se siente demasiado activo e impulsado a hacer cosas, como si lo empujase un motor?", "texto": "6. Se siente demasiado activo, como impulsado por un motor:" }
+      ]
+    },
+    {
+      "titulo": "7. Lista de Control para la Dislexia en Edad Adulta (Vinegrad)",
+      "preguntas": [
+        { "id": " ¿Tienes problemas en distinguir entre izquierda y derecha?", "texto": "1. ¿Problemas para distinguir entre izquierda y derecha?" },
+        { "id": "¿Te confunde la lectura de un mapa u orientarte en un lugar nuevo?", "texto": "2. ¿Te confunde leer un mapa u orientarte?" },
+        { "id": "¿Detestas leer en voz alta?", "texto": "3. ¿Detestas leer en voz alta?" },
+        { "id": "¿Tardas más de lo esperado para leer una página?", "texto": "4. ¿Tardas más de lo esperado en leer una página?" },
+        { "id": "¿Tienes dificultades en recordar el significado de lo que has leído?", "texto": "5. ¿Dificultades para recordar el significado de lo leído?" },
+        { "id": "\"¿Detestas leer libros muy largos?\t\"", "texto": "6. ¿Detestas leer libros muy largos?" },
+        { "id": "¿Tu ortografía es pobre?", "texto": "7. ¿Tu ortografía es pobre?" },
+        { "id": "\"¿Tu caligrafía es difícil de leer?\t\"", "texto": "8. ¿Tu caligrafía es difícil de leer?" },
+        { "id": "¿Te confundes si tienes que hablar en público?", "texto": "9. ¿Te confundes al hablar en público?" },
+        { "id": "¿Tienes dificultades en tomar un mensaje telefónico y transmitirlo correctamente?", "texto": "10. ¿Dificultades para tomar y transmitir un mensaje telefónico?" },
+        { "id": "¿Cuándo pronuncias una palabra larga, tienes dificultades en poner los diferentes sonidos en el orden correcto?", "texto": "11. ¿Dificultad para ordenar los sonidos en palabras largas?" },
+        { "id": "\"¿Tienes dificultades en sumar en la cabeza, sin utilizar los dedos o una hoja de papel?\t\"", "texto": "12. ¿Dificultad para sumar mentalmente?" },
+        { "id": "\"Al usar el teléfono, ¿sueles confundir los números?\t\"", "texto": "13. ¿Sueles confundir los números al usar el teléfono?" },
+        { "id": "\"¿Tienes alguna dificultad en repetir los meses del año uno tras otro de modo fluido?\t\"", "texto": "14. ¿Dificultad para repetir los meses del año fluidamente?" },
+        { "id": "\"¿Tienes dificultades en repetir los meses del año hacia atrás?\t\"", "texto": "15. ¿Dificultad para repetir los meses del año hacia atrás?" },
+        { "id": "\"¿Confundes fechas y horas y olvidas citas?\t\"", "texto": "16. ¿Confundes fechas, horas y olvidas citas?" },
+        { "id": "\"¿Al escribir cheques haces errores a menudo?\t\"", "texto": "17. ¿Haces errores a menudo al escribir cheques?" },
+        { "id": "\"¿Piensas que los formularios son difíciles y confunden?\t\"", "texto": "18. ¿Los formularios te parecen difíciles y confusos?" },
+        { "id": "¿Confundes los números del autobús como el 95 y el 59?", "texto": "19. ¿Confundes números como 95 y 59?" },
+        { "id": "\"¿Has tenido dificultades para aprender las tablas de multiplicación en la escuela?\t\"", "texto": "20. ¿Dificultad para aprender las tablas de multiplicación?" }
+      ]
+    }
+  ]
+}
